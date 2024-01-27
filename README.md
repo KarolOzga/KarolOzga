@@ -10,4 +10,4 @@
 
 
 
-<img align="center" src="https://cdn.dribbble.com/users/664468/screenshots/3363839/sloth.gif" width="80" height="80">
+<h1 align="center"><img align="center" src="https://cdn.dribbble.com/users/664468/screenshots/3363839/sloth.gif" width="80" height="80"></h1>
