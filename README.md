@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karol</h1>
 <h3 align="center">Student of the Secondary Technical School of Communication Technology and Electronics</h3>
 
-- 🔭 I’m currently working on **3D Checkers and Filemanager**
-
 - 🌱 I’m currently learning **TypeSctipt, Angular**
 
 <h3 align="left">Languages and Tools:</h3>
